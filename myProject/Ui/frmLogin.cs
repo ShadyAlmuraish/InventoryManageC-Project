@@ -63,7 +63,7 @@ namespace myProject.Ui
             }
             else
             {
-                MessageBox.Show("Login Failed!!!!!! try again");
+                MessageBox.Show("Login Failed!!!!!! try for the second time");
                 txtUserName.Text = "";
                 txtPassord.Text = "";
                 cmbUserType.Text = "";
